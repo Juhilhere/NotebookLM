@@ -66,7 +66,7 @@ The final context window is injected into the System Prompt. The LLM is instruct
 
 ---
 
-## 🚀 Deployment Guide
+## 🚀 Deployment Guide :
 
 This project is configured to deploy seamlessly to either **Render** or **Vercel**.
 
